@@ -21,7 +21,7 @@ import com.google.zxing.qrcode.decoder.ErrorCorrectionLevel;
 
 /**
  * @Description: (二维码)
- * @author：luoguohui @date：2015-10-29 下午05:27:13
+ * @author：yhr
  */
 public class ZXingCode {
 	private static final int QRCOLOR = 0xFF000000; // 默认是黑色
